@@ -1,0 +1,6 @@
+{
+    "port": 8081,
+    "mongoUri": "mongodb://blog-db:27017/blog",
+    "accessSecret": "super secret from backed",
+    "refreshSecret": "super refresh key"
+}

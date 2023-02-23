@@ -1,0 +1,280 @@
+[
+    {
+        "data": "01.10.2022",
+        "quantityRate": ["63a12d2cbde27d4a6fb1291d", "63a12d2cbde27d4a6fb1291e", "63a12d2cbde27d4a6fb1291f"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["6384b88c1b63ee3468d001af"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718222",
+        "data": "02.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718223",
+        "data": "03.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed47119814", "67rdca3eeb7f6fgeed47119815"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718124",
+        "data": "04.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed47119816", "67rdca3eeb7f6fgeed47119812911"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47181", "67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718125",
+        "data": "05.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718126",
+        "data": "06.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed47119817", "67rdca3eeb7f6fgeed47119818", "67rdca3eeb7f6fgeed47119819"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718227",
+        "data": "07.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718228",
+        "data": "08.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718129",
+        "data": "09.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198110", "67rdca3eeb7f6fgeed471198111"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718130",
+        "data": "10.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198112"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718131",
+        "data": "11.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718232",
+        "data": "12.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198113", "67rdca3eeb7f6fgeed471198114", "67rdca3eeb7f6fgeed471198115"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47181"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718233",
+        "data": "13.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718134",
+        "data": "14.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198116", "67rdca3eeb7f6fgeed471198117"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718135",
+        "data": "15.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718136",
+        "data": "16.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198118", "67rdca3eeb7f6fgeed47119812912"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47181", "67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718237",
+        "data": "17.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718238",
+        "data": "18.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198119", "67rdca3eeb7f6fgeed471198120", "67rdca3eeb7f6fgeed471198121"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718139",
+        "data": "19.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718140",
+        "data": "20.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198122", "67rdca3eeb7f6fgeed471198123"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718141",
+        "data": "21.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718242",
+        "data": "22.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718243",
+        "data": "23.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718144",
+        "data": "24.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198124", "67rdca3eeb7f6fgeed471198125", "67rdca3eeb7f6fgeed471198126", "67rdca3eeb7f6fgeed47119812913"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47181", "67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718145",
+        "data": "25.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198127", "67rdca3eeb7f6fgeed47119812914"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47181", "67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718146",
+        "data": "26.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718247",
+        "data": "27.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198128", "67rdca3eeb7f6fgeed471198129", "67rdca3eeb7f6fgeed47119812915"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182", "67rdca3eeb7f6fgeed47181"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718248",
+        "data": "28.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718149",
+        "data": "29.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198130", "67rdca3eeb7f6fgeed471198131", "67rdca3eeb7f6fgeed471198132"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718150",
+        "data": "30.10.2022",
+        "quantityRate": [],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": []
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4718151",
+        "data": "31.10.2022",
+        "quantityRate": ["67rdca3eeb7f6fgeed471198133", "67rdca3eeb7f6fgeed471198134"],
+        "spent": 0,
+        "budget": 0,
+        "balance": 0,
+        "cardId": ["67rdca3eeb7f6fgeed47182"]
+    }
+]

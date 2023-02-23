@@ -1,0 +1,334 @@
+* {
+	box-sizing: border-box;
+  }
+  
+  html,
+  body,
+  #app {
+	width: 100%;
+	height: 100%;
+  }
+  
+  body {
+	// @extend %ws-body-2;
+  
+	margin: 0;
+	padding: 0;
+	color: #212121;
+	line-height: 1.42;
+	-webkit-user-select: text;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	letter-spacing: inherit;
+  }
+  
+  section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: inherit;
+  }
+  
+  button {
+	border: 0;
+	outline: none;
+	background-color: transparent;
+  }
+  
+  figure,
+  ul,
+  p {
+	margin: 0;
+  }
+  
+  img {
+	display: block;
+  }
+  
+  header {
+	padding: 0;
+  }
+  
+  footer {
+	font-size: inherit;
+	font-style: normal;
+  }
+  
+  svg {
+	title {
+	  display: none;
+	}
+  }
+  
+  a {
+	// color: $de500;
+  
+	&:hover {
+	//   color: $de700;
+	}
+  
+	&.caption-link {
+	//   color: $de500;
+  
+	  &:hover {
+		// color: $de700;
+	  }
+	}
+  }
+  
+  input[type='checkbox'] + div {
+	padding: 0 9px 5px 36px;
+	// background: url('assets/images/checkbox.png') 0 0 no-repeat;
+  }
+  
+  input[type='checkbox'] {
+	position: absolute;
+	width: 0 !important;
+	height: 0 !important;
+	margin: 0 !important;
+	opacity: 0;
+  
+	&:checked + div {
+	//   background: url('assets/images/checkbox-check.png') 0 0 no-repeat;
+	}
+  }
+  
+  .container {
+	// @extend %container;
+  
+	// max-width: $container-width;
+  }
+  
+  .toast-notification {
+	font-size: 20px !important;
+  }
+  
+  .flex {
+	flex-grow: 1 !important;
+  }
+  
+  .main-body {
+	width: 100%;
+	overflow-x: hidden;
+  }
+  
+  .checkbox-inline {
+	padding-left: 0 !important;
+  }
+  
+  .link-text {
+	// color: $de500;
+  
+	&:hover {
+	  padding-bottom: 1px;
+	//   border-bottom: 1px solid $de700;
+	//   color: $de700;
+	}
+  }
+  
+  .modal-trigger {
+	// color: $de500;
+	cursor: pointer;
+  
+	&:hover {
+	//   color: $de700;
+	}
+  }
+  
+  .text-overflow {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+  }
+  
+  .global-toast {
+	border-radius: 6px;
+	// color: $white !important;
+	font-size: 18px;
+  
+	&.toastify-content {
+	  &--success {
+		background: #007605 !important;
+	  }
+  
+	  &--error {
+		// background: $po600 !important;
+	  }
+	}
+  
+	.toast-link {
+	//   color: $white !important;
+	  text-decoration: underline;
+  
+	  &:hover {
+		// color: $de500 !important;
+	  }
+	}
+  }
+  
+  .the-white {
+	&__home-link {
+	  display: block;
+	}
+  
+	svg {
+	  display: block;
+	  width: 54px;
+	  height: 24px;
+	}
+  }
+  
+  .not-found {
+	width: 100%;
+	height: 100%;
+	padding: 24px;
+  }
+  
+  .pointer {
+	cursor: pointer;
+  }
+  
+  .react-confirm-alert {
+	h1 {
+	  letter-spacing: 0.3px;
+	}
+  }
+  
+  .react-confirm-alert-overlay {
+	z-index: 9999 !important;
+  }
+  
+  .error-wrap {
+	position: relative;
+	top: -15px;
+	margin-left: 32px;
+	// color: $po600;
+  }
+  
+  .error-text {
+	margin: 6px 5px 0 0;
+	// color: $po600;
+  }
+  
+  .ws-action {
+	height: 44px;
+	margin: 6px 0;
+	border-radius: 6px;
+	// background: $de500;
+	// color: $white;
+	font-size: 18px;
+	cursor: pointer;
+  
+	&--secondary {
+	  height: auto;
+	  margin: 44px 0 0;
+	  padding: 4px;
+	  background: none;
+	//   color: $de500;
+	  font-size: 16px;
+	}
+  
+	&--disabled {
+	//   background: $bc090;
+	  cursor: default;
+	}
+  }
+  
+  .ws-input-line {
+	.input-block,
+	.base-date-picker {
+	  width: 46%;
+	}
+  
+	&--third {
+	  .input-block,
+	  .base-date-picker {
+		width: 30%;
+	  }
+	}
+  }
+  
+  .require {
+	// color: $po600;
+  }
+  
+  .dictionary-items-list-wrap {
+	width: 100%;
+	margin: 0 0 12px;
+  }
+
+.auth-wrap {
+	width: 100%;
+	height: 100vh;
+	overflow-y: auto;
+	// background: $auth-pages-background;
+  
+	&__content {
+	  flex: 1 0 auto;
+	  width: 100%;
+	  padding: 100px 0;
+	}
+  
+	&__card {
+	  width: 482px;
+	  padding: 60px;
+	  border-radius: 4px;
+	//   background-color: $white;
+	  box-shadow: 0 4px 8px rgba(9, 30, 66, 0.25), 0 0 1px rgba(9, 30, 66, 0.31);
+  
+	  .ws-button {
+		width: 100%;
+	  }
+  
+	  .ws-button:not(:last-of-type) {
+		margin-bottom: 20px;
+	  }
+	}
+  
+	&__logo {
+	  margin-bottom: 20px;
+	}
+  
+	&__title {
+	  margin-bottom: 20px;
+	  text-align: center;
+	}
+  }
+
+  .footer-container {
+	max-width: 960px;
+  }
+  
+  .footer {
+	flex: 0 0 auto;
+	width: 100%;
+	padding: 40px 0;
+	// background-color: $auth-pages-background;
+  
+	&__content {
+	  margin-left: -30px;
+	}
+  
+	&__left,
+	&__right {
+	  margin-left: 30px;
+	}
+  
+	&__item {
+	  margin-bottom: 8px;
+	  font-size: 14px;
+	}
+  
+	&__mobile-link:not(:last-child) {
+	  margin-right: 10px;
+	}
+  }
